@@ -28,10 +28,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/p2p"
-	"github.com/ethereum/go-ethereum/rpc"
+	"github.com/BitBaseBit/go-ethereum/crypto"
+	"github.com/BitBaseBit/go-ethereum/ethdb"
+	"github.com/BitBaseBit/go-ethereum/p2p"
+	"github.com/BitBaseBit/go-ethereum/rpc"
 
 	"github.com/stretchr/testify/assert"
 )
